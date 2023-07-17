@@ -9,3 +9,7 @@ version: 1.0
 doi: 10.5281/zenodo.8154407
 date-released: 2023-07-17
 url: "https://github.com/veroniquegeorlette/VLC_channel_modeling_python"
+keywords:
+  -Visible Light Communication
+  -Channel modeling
+  -Real radiation pattern LED
