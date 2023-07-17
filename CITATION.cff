@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Véronique"
+  given-names: "Georlette"
+  orcid: "https://orcid.org/0000-0001-9509-8351"
+title: "VLC channel modeling in Python"
+version: 1.0
+doi: 10.5281/zenodo.8154407
+date-released: 2023-07-17
+url: "https://github.com/veroniquegeorlette/VLC_channel_modeling_python"
