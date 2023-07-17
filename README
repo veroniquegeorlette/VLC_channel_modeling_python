@@ -1,5 +1,5 @@
 Badge available here:
-<html><a href="https://zenodo.org/badge/latestdoi/667326582"><img src="https://zenodo.org/badge/667326582.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/667326582.svg)](https://zenodo.org/badge/latestdoi/667326582)
 
 
 This folder contains a large part of the channel simulator for a VLC (Visible Light Communication) channel simulator.
