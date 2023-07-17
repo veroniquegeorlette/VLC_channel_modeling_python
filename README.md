@@ -1,4 +1,5 @@
 # VLC channel simulator in Python
+[![DOI](https://zenodo.org/badge/667326582.svg)](https://zenodo.org/badge/latestdoi/667326582)
 
 This folder contains a large part of the channel simulator for a VLC (Visible Light Communication) channel simulator.
 The various source codes linked to the case studies:
@@ -23,4 +24,3 @@ The "Rep_imp_bus" file contains 2 sections of code
 - Rep_imp_bus_station" introduces the scenario's main parameters and displays the curves and impulse response of the system under study. It separates and joins the contributions from smoke and fog.
 - fAttenuations_Gl" is the set of functions used to calculate the attenuation for fog and smoke. 
 The "4_emitters_single_receiver_LOS" code displays the optical power distribution when 4 transmitters are present in the room.
-
